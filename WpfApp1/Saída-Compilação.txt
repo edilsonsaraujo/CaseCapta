@@ -1,0 +1,9 @@
+﻿1>------ Recompilação total iniciada: Projeto: TransacaoEntidade, Configuração: Debug Any CPU ------
+1>  TransacaoEntidade -> D:\PROJETO\TESTE_EMPREGO\CaseCapta\WpfApp1\TransacaoEntidade\bin\Debug\TransacaoEntidade.dll
+2>------ Recompilação total iniciada: Projeto: TransacaoControle, Configuração: Debug Any CPU ------
+2>  TransacaoControle -> D:\PROJETO\TESTE_EMPREGO\CaseCapta\WpfApp1\TransacaoControle\bin\Debug\TransacaoControle.dll
+3>------ Recompilação total iniciada: Projeto: TransacaoForm, Configuração: Debug Any CPU ------
+3>  TransacaoForm -> D:\PROJETO\TESTE_EMPREGO\CaseCapta\WpfApp1\TransacaoForm\bin\Debug\TransacaoForm.exe
+4>------ Recompilação total iniciada: Projeto: transacaoCon, Configuração: Debug Any CPU ------
+4>  transacaoCon -> D:\PROJETO\TESTE_EMPREGO\CaseCapta\WpfApp1\transacaoCon\bin\Debug\transacaoCon.exe
+========== Recompilar Tudo: 4 com êxito, 0 com falha, 0 ignorados ==========
